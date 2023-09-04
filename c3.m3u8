@@ -886,6 +886,139 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/24117
 http://svtv.xyz:8080/sandra30abril/CQNFV/24120
 #EXTINF:-1 group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png",ECU | GAMAVISION
 http://svtv.xyz:8080/sandra30abril/CQNFV/24122
+
+#EXTINF:-1 group-title="MEXICO-1" tvg-logo="https://i.imgur.com/Og17U9N.png",MX: ADN40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 group-title="MEXICO-1" tvg-logo="https://i.imgur.com/5nYjRlb.png",MX: Alcance TV
+https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO-1" tvg-logo="https://i.imgur.com/5nYjRlb.png",MX: AMX Noticias
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO-1" tvg-logo="https://i.imgur.com/1sAgSME.png",MX: Antena TV
+https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO-1" tvg-logo="https://i.imgur.com/TWk9gfd.png",MX: A+
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 group-title="MEXICO-1" tvg-logo="https://i.imgur.com/rRxgBtI.png",MX: Azteca Uno
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+B15
+
+Bandamax
+
+Canal 10 Cancun
+
+Canal 22 Nacional
+
+Canal 26
+
+Canal 28
+
+Canal 44
+
+Canal 5
+
+Canal 6 Nacional
+
+Canal del Congreso 45.1
+
+Canal del Congreso 45.2
+
+Canal del Congreso 45.3
+
+Canal Iberoamericano
+
+Canal Ocho TV
+
+Capital 21
+
+Cartoonito Mexico
+
+Cartoon Network Mexico
+
+CB TV Michoacan
+
+Conecta TV
+
+CorTV
+
+El Nu9ve
+
+Excelsior TV
+
+Expresa TV
+
+Filmex
+
+Filmex Clasico
+
+Foro
+
+Golden Panregional
+
+Hipodromo de las Americas
+
+ILCE Canal 15 Summa Saberes
+
+IMRyT
+
+Ingenio TV
+
+Jalisco TV
+
+Justicia TV
+
+Las Estrellas Latin America
+
+Lobo TV
+
+Mexiquense TV
+
+Moovimex
+
+Multimedios Bajio
+
+Multimedios Ciudad Juarez
+
+Multimedios Guadalajara
+
+Multimedios Laguna
+
+Multimedios Monterrey
+
+Multimedios Plus
+
+Multimedios Puebla
+
+Multimedios Saltillo
+
+MultiPremier
+
+MVM Noticias
+
+MyTime Movie Network Mexico
+
+Noticias Canal 10
+
+N+
+
+N+ Media
+
+NRT Mexico
+
+Nueve TV
+
+Presumiendo Mexico
+
+RCG TV
+
+RCG TV 2
+
+RTG
+
+RTQ Queretaro
+
+Sintesis TV
+
+
+
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/1lv5hkr.png",MX: TELENOVELAS HD
 http://svtv.xyz:8080/sandra30abril/CQNFV/24165
 #EXTINF:-1 group-title="MEXICO" tvg-logo="http://i.ibb.co/CJhfsQN/Azteca-7-2019-2.png",MX: AZTECA 7
