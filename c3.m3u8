@@ -429,6 +429,12 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/159050
 http://svtv.xyz:8080/sandra30abril/CQNFV/159051
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="http://svtv.xyz:8000/images/24cc4821f3c1a40be781fe4387cad3b6.png",COL | CARACOL HD*
 http://svtv.xyz:8080/sandra30abril/CQNFV/159809
+
+#EXTINF:-1 group-title="24/7 LATINO" tvg-logo="https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fposters%2F71663-15.jpg",24/7 Los Simpsons **
+http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/chunklist_w1726892137.m3u8
+#EXTINF:-1 group-title="24/7 LATINO" tvg-logo="https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fposters%2F71663-15.jpg",24/7 Los Simpsons 2 **
+http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
+
 #EXTINF:-1 group-title="24/7 LATINO" tvg-logo="https://1.bp.blogspot.com/-VGYroLLXCbc/YNIm8zj6CuI/AAAAAAAAqT8/yI6oVCd2-_EhkJbu6ry4GQTNhEb7PXqCACLcBGAsYHQ/s480/7205781409596737032_1.png",24/7 LA CASA DE PAPEL TEM 5 **
 http://svtv.xyz:8080/sandra30abril/CQNFV/160195
 #EXTINF:-1 group-title="24/7 LATINO" tvg-logo="https://e1.pngegg.com/pngimages/513/182/png-clipart-the-blacklist-the-blacklist-season-2-file-folder.png",24/7 LA LISTA NEGRA TEM1 **
